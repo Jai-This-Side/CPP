@@ -2,8 +2,7 @@
 using namespace std;
  int main(int argc, char const *argv[])
  {
-    int n;
-    cout << "enter the "
+    cout << "Hello World";
     return 0;
  }
  
